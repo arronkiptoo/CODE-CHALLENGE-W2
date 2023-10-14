@@ -42,7 +42,8 @@ Vscode
 Json
 Postman
 ```
-## Reference
+## LIVE LINK
+https://arronkiptoo.github.io/CODE-CHALLENGE-W2/
 
 ## Image
 ![Screenshot from 2023-10-14 18-27-26](https://github.com/arronkiptoo/CODE-CHALLENGE-W2/assets/144256231/975a5ad5-60c7-4753-a19a-834f0ab7073e)
